@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "floating-status-bar",
+    "custom-background",
+    "floating-search-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "notion-cards",
+    "extended-colorschemes",
+    "color-extend"
+  ],
+  "accentColor": "#94c8f0",
+  "cssTheme": "AnuPpuccin"
+}

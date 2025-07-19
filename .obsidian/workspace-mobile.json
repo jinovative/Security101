@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b6167cd87097d907",
+    "type": "split",
+    "children": [
+      {
+        "id": "06740d676ca3ae59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e4cee491f1ba18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0x00 Security/0xS1 SY0-701/ch7. Cryptography and the PKI/7.3 Secure Cryptographic Protocols.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "7.3 Secure Cryptographic Protocols"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cbb3e646e1a9c25",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "500a283def1e9948",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "bfc781ec3bdb4b75",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "31a0c191fdbb5dae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "cd6a2f35fb8f8475",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c0ed83b0be99d479",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8ed9958267f141bd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0x01 Networking/0x01 Networking/Contents/Ch8. Security in Computer Networks/3 Message Integrity and Digital Signatures.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "95d68cb24f8d984e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "415877e109a80136",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "320b50778e882f3b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3e4cee491f1ba18",
+  "lastOpenFiles": [
+    "0x00 Security/0xS1 SY0-701/ch7. Cryptography and the PKI/7.4 Troubleshooting Cryptographic Implementations.md",
+    "0x00 Security/0xS1 SY0-701/ch1. Today's Security Professional/1.3 Change Management & Security Impact.md",
+    "0x00 Security/0xS1 SY0-701/ch1. Today's Security Professional/1.2 Summarize Fundamental Security Concepts.md",
+    "0x00 Security/0xS1 SY0-701/ch1. Today's Security Professional/1.1 Security Control.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch8. Security in Computer Networks/3 Message Integrity and Digital Signatures.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch8. Security in Computer Networks/2 Principles of Cryptography.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch8. Security in Computer Networks/1 What Is Network Security?.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch7. Wireless and Mobile Networks/7 Managing Mobility in Cellular Networks.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch5. Control Plan - The Network Layer/7 Network Management and SNMP.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch4. Data Plan - The Network Layer/4 Generalized Forwarding and Software-Defined Networking (SDN).md",
+    "0x01 Networking/0x01 Networking/Contents/Ch4. Data Plan - The Network Layer/3 The Internet Protocol (IP).md",
+    "0x01 Networking/0x01 Networking/Contents/Ch4. Data Plan - The Network Layer/2 What’s Inside a Router?.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch4. Data Plan - The Network Layer/1 Overview of Network Layer.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/6 Principles of Congestion Control.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/5 Connection-Oriented Transport TCP.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/4 Principles of Reliable Data Transfer.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/3 Connectionless Transport UDP.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/2 Multiplexing and Demultiplexing.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch3. Transport Layer/1 Introduction and Transport-Layer Services.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/3 Electronic Mail in the Internet.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/7 Socket Programming.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/6 Video Streaming and Content Distribution Networks (CDNs).md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/5 Peer-to-Peer Applications.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/1 Principles of Network Applications.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/4 DNS – The Internet’s Directory Service.md",
+    "0x01 Networking/0x01 Networking/Contents/Ch2. Application Layer/2 The Web and HTTP.md",
+    "Network/Dictionary"
+  ]
+}

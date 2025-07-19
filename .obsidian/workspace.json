@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "47cdf774b542e37f",
+    "type": "split",
+    "children": [
+      {
+        "id": "828922de2692c751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e068f461c2296486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/Contents/Ch1. Computer Network & Internet/1 What is Internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 What is Internet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34ec4cedf1e8c112",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a660b196d12090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578f6ec150be4d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58b985a09d5baed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca439fdd49c36233",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "right": {
+    "id": "576fb82162361fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d68f8596753558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2772718679fc0d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "697c5044599edd76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "461bdb5f5344d921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19fbb91e8ad7552c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "e068f461c2296486",
+  "lastOpenFiles": [
+    "Network/Index/Application Layer.md",
+    "Algorithms/Roadmap.png",
+    "Network/Contents/Ch1. Computer Network & Internet/7 History of Computer Networking and the Internet.md",
+    "Algorithms/Intervals",
+    "Algorithms/Greedy",
+    "Algorithms/Advanced Graphs",
+    "Algorithms/Math & Geometry",
+    "Algorithms/Bit Manipulatetion",
+    "Algorithms/2-D DP",
+    "Algorithms/1-D DP",
+    "Algorithms/Graphs",
+    "Network/Contents/Ch1. Computer Network & Internet/6 Networks Under Attack.md",
+    "Algorithms/Backtracking",
+    "Algorithms/Heap & Priority Queue",
+    "Network/Contents/Ch1. Computer Network & Internet/5 Protocol Layers and Their Service Models.md",
+    "Network/Contents/Ch1. Computer Network & Internet/4 Delay, Loss, and Throughput in Packet-Switched Networks.md",
+    "Network/Contents/Ch1. Computer Network & Internet/3 The Network Core.md",
+    "Network/Contents/Ch1. Computer Network & Internet/2 The Network Edge.md",
+    "Network/Contents/Ch1. Computer Network & Internet/1 What is Internet.md",
+    "Network/Contents/Ch9. Multimedia Networking/1 Multimedia Networking Applications.md",
+    "Network/Contents/Ch9. Multimedia Networking/5 Network Support for Multimedia.md",
+    "Network/Contents/Ch9. Multimedia Networking/4 Protocols for Real-Time Conversational Applications.md",
+    "Network/Contents/Ch9. Multimedia Networking/3 Voice-over-IP (VoIP).md",
+    "Network/Contents/Ch9. Multimedia Networking/2 Streaming Stored Video.md",
+    "Network/Contents/Ch8. Security in Computer Networks/9 Operational Security Firewalls and Intrusion Detection Systems.md",
+    "Network/Contents/Ch8. Security in Computer Networks/Untitled 2 1 1 2.md",
+    "Network/Contents/Ch8. Security in Computer Networks/8 Securing Wireless LANs.md",
+    "Network/Contents/Ch8. Security in Computer Networks/7 Network-Layer Security IPsec and VPNs.md",
+    "Network/Contents/Ch8. Security in Computer Networks/5 Securing E-Mail.md",
+    "Network/Contents/Ch8. Security in Computer Networks/4 End-Point Authentication.md",
+    "Network/Contents/Ch8. Security in Computer Networks/3 Message Integrity and Digital Signatures.md",
+    "Network/Contents/Ch8. Security in Computer Networks/2 Principles of Cryptography.md",
+    "Network/Contents/Ch8. Security in Computer Networks/1 What Is Network Security?.md",
+    "Network/Contents/Ch7. Wireless and Mobile Networks/7 Managing Mobility in Cellular Networks.md",
+    "Network/Contents/Ch7. Wireless and Mobile Networks/6 Mobile IP.md",
+    "Network/Contents/Ch7. Wireless and Mobile Networks/5 Mobility Management Principles.md",
+    "Network/Contents/Ch7. Wireless and Mobile Networks/4 Cellular Internet Access.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
